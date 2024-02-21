@@ -1,5 +1,5 @@
 # Wud
-Wud (ود) is a mobile application designed for individuals or associations looking to contribute to their communities with their ressources, skills and projects. It is also designed for community members looking for help, which they can request from associations. 
+Wud (ود) is a mobile application developed for individuals or associations seeking to make meaningful contributions to their communities by offering their resources, skills, and project ideas. Additionally, it serves as a platform for community members in need of assistance, enabling them to request support from associations. 
 
 **Challenges :**
 In Tunisia, we're facing significant challenges on our path to development. The economic crisis [1] that followed the revolution has left our infrastructure, notably healthcare, struggling with the exodus of medical professionals due to political instability and worsening conditions [2]. Pollution levels are escalating, worsening environmental damage due to inadequate waste management [3]. Early education enrollment remains low, which could have serious long-term effects on our society and economy.[4] And to top it off, unemployment rates are high, especially among college graduates, showing deeper problems in our job market. [5].
