@@ -1,31 +1,35 @@
 # Wud
 Wud (ود) is a mobile application designed for individuals or associations looking to contribute to their communities with their ressources, skills and projects. It is also designed for community members looking for help, which they can request from associations. 
 
-Projects can be classified into 4 different categories:
+**Challenges :**
+In Tunisia, we're facing significant challenges on our path to development. The economic crisis [1] that followed the revolution has left our infrastructure, notably healthcare, struggling with the exodus of medical professionals due to political instability and worsening conditions [2]. Pollution levels are escalating, worsening environmental damage due to inadequate waste management [3]. Early education enrollment remains low, which could have serious long-term effects on our society and economy.[4] And to top it off, unemployment rates are high, especially among college graduates, showing deeper problems in our job market. [5].
 
-1) **Social cohesion projects** meant to cultivate a sense of belonging, unity, and cooperation among residents:
-* _Community Service Projects_ that bring community members together to work on volunteer projects aimed at addressing local needs.
-* _Cultural Events_. 
-* _Public space activities_ that activate public areas such as parks, plazas, and cultural centers through events, performances, and activities that bring people together. 
-* _Youth & cross-generational activities_ meant foster a sense of responsibility and civic engagement in youth and adults.
+**Sources:**
+{
+[1] https://www.usip.org/publications/2022/07/tunisias-twin-democracy-and-economic-crises-push-it-brink, 
+[2] https://houloul.org/en/2021/02/16/the-exodus-of-doctors-the-rubiks-cube-of-tunisian-health-what-strategy-to-adopt/
+[3] https://houloul.org/en/2023/05/16/reforming-tunisias-municipal-waste-management-challenges-and-potential-solutions/
+[4] https://www.statista.com/statistics/1189530/number-of-pupils-in-primary-schools-in-tunisia/
+[5] https://houloul.org/en/2021/05/21/will-be-available-soon-3/
+}
 
-2) **Economic empowerment programs** to create economic opportunities, build abundance, and improve livelihoods for their residents:
-* _Vocational Training Centers_.
-* _Small Business Incubators_.
-* _Microfinance Programs_ that provide small loans and financial services to aspiring entrepreneurs and small business owners in the community. 
-* _Workforce development programs_ partnering with local businesses, educational institutions, and government agencies to develop workforce development programs that provide job training, career counseling, and job placement services to unemployed or underemployed individuals in the community. 
+Tackling these challenges demands collective action. That's where Wud comes in. It's a mobile app inspired  the initiative of https://jamaity.org/. Wud empowers Tunisians to contribute to community improvement projects. NGOs and individuals can propose initiatives aimed at tackling pressing issues such as infrastructure development, educational advancement, economic empowerment, and reducing unemployment. Through Wud, users can offer resources, expertise, or volunteer efforts to support these projects. Additionally, they can seek assistance from associations when faced with challenges, fostering a collaborative approach to overcoming obstacles and driving positive change in Tunisia. 
 
-3) **Urban renewal and revitalization** initiatives that encompass various projects aimed at rejuvenating urban areas and enhancing their livability:
-* _Community Revitalization Grants_: funding programs to support community-led projects aimed at improving infrastructure, promoting economic development, and revitalizing neighborhoods.
-* _Main Street Enhancement Programs_ that aim to create vibrant, pedestrian-friendly urban centers that attract residents, visitors, and investment. 
-* _Vacant Property Revitalization initiatives_ to reclaim and repurpose vacant or blighted properties in urban areas by facilitating their transformation into affordable housing units, mixed-use developments, community gardens, and green spaces. 
-* _Urban Greening Programs_.
+This project is ultimately meant to englobe all of the SDGs, as long as the NGOs and individuals providing community projects within the application are committed to solving the SDGs that their local community needs. I was inspired to provide users with the freedom to choose what problems they could work on in order to achieve the purpose of the application, which is committing NGOs and individuals to work on the common goals and vision of the betterment of their community.
 
-4) **Education and Skill-building** initiatives meant to empower our community through educational skill-building programs:
-* _Academic Support and Enrichment Programs_ such as STEM workshops and hands-on learning experiences, literacy and reading clubs...
-* _Life Skills and Personal Development Programs_: social and emotional learning programs to support their social and emotional development, safety workshops... 
-* _Creative Expression and Arts education programs_ allowing children and students to explore their artistic talents, develop their creativity, and express themselves through various art forms.
-* _Technology and Innovation education programs_ implementing environmental education programs and sustainability initiatives and establishing coding clubs and computer science programs.
+To make this app simpler to navigate, I focused on providing 4 SDGs that address fundamental challenges faced by communities in Tunisia:
+
+**Goal 4:** Quality Education
+_Target 4.1:_ By 2030, ensure that all girls and boys complete free, equitable, and quality primary and secondary education leading to relevant and effective learning outcomes.
+
+**Goal 8:** Decent Work and Economic Growth
+_Target 8.5:_ By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value.
+
+**Goal 11:** Sustainable Cities and Communities
+_Target 11.3:_ By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated, and sustainable human settlement planning and management in all countries.
+
+**Goal 17:** Partnerships for the Goals
+_Target 17.17:_ Encourage and promote effective public, public-private, and civil society partnerships, building on the experience and resourcing strategies of partnerships.
 
 
 Thank you for taking the time to learn about my Solution Challenge 2024 project !
