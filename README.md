@@ -13,6 +13,8 @@ In Tunisia, we're facing significant challenges on our path to development. The 
 [3] Marzouki M. (2023), _Reforming Tunisia’s Municipal Waste Management: Challenges and potential solutions_,link: https://houloul.org/en/2023/05/16/reforming-tunisias-municipal-waste-management-challenges-and-potential-solutions/
 }
 
+
+**Solution:**
 Tackling these challenges demands collective action. That's where Wud comes in. Inspired the initiative of https://jamaity.org/ . Wud is meant empower Tunisians to contribute to community improvement projects. NGOs and individuals can propose initiatives aimed at tackling pressing issues such as infrastructure development, educational advancement, economic empowerment, and reducing unemployment. Through Wud, users can offer resources, expertise, or volunteer efforts to support these projects. Additionally, they can seek assistance from associations when faced with challenges, fostering a collaborative approach to overcoming obstacles and driving positive change in Tunisia.
 
 Link to the video demonstration: https://www.youtube.com/watch?v=bI-Y6YJPJRQ
