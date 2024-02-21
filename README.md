@@ -40,7 +40,7 @@ Check out the prototypes if you have a Dribbble account : https://dribbble.com/n
 Youtube presentation of the project: https://www.youtube.com/watch?v=bI-Y6YJPJRQ
 
 
-Screenshots: https://www.figma.com/file/ILuGFivHY2RLpfBeFz4Wvn/Untitled?type=design&node-id=0%3A1&mode=design&t=Q0KNcAi2Y0h1qaBM-1
+Screenshots: 
 ![image](https://github.com/nourbenamor2001/Wud/assets/146457416/b9a3eac4-eea4-4e2d-a069-471064151976)
 ![image](https://github.com/nourbenamor2001/Wud/assets/146457416/515f3d52-2af1-45c6-b2c0-71966f1d7789)
 ![image](https://github.com/nourbenamor2001/Wud/assets/146457416/2d69e0e1-587b-4d28-945c-cd20004454ad)
