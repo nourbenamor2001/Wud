@@ -32,6 +32,7 @@ Thank you for taking the time to learn about my Solution Challenge 2024 project 
 
 
 Check out the prototypes if you have a Dribbble account : https://dribbble.com/nawaraaa
+
 Youtube presentation of the project: https://www.youtube.com/watch?v=bI-Y6YJPJRQ
 
 
